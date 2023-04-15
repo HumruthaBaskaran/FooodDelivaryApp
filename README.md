@@ -1,1 +1,1 @@
-# FooodDelivartApp
+# FooodDelivaryApp
